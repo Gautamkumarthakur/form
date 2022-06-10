@@ -1,0 +1,34 @@
+.body{
+   text-align: center;
+}
+div{
+   margin: 0 auto 0 auto;
+}
+.container{
+    margin: auto;
+    padding-left: 25rem;
+    margin-right: 15rem;
+}
+body{
+   background-color:red;
+}
+h1{
+   background-color:white;
+   border-style: solid;
+}
+form{
+   margin-top: 20px;
+   background-color: white;
+   border-radius: 35px;
+   border: spx solid #244624;
+   font-size:20px;
+   border-style: solid;
+}
+table {
+   text-align: auto;
+ }
+
+input{
+   border-radius: 15px;
+   font-size:15px;
+}
